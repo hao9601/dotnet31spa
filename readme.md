@@ -1,4 +1,5 @@
 - Prerequisites:
+- .Net Core 3.1
 - node.js version 10+
 - Angular version 8.3.14
 - Open with Visual Studio Code
