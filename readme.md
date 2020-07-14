@@ -1,0 +1,9 @@
+- Prerequisites:
+- node.js version 10+
+- Angular version 8.2
+- Open with Visual Studio Code
+- Make sure the C# extension is installed
+- open the console in the "ClientApp" folder
+- run "npm install"
+- run "ng build"
+- launch the application from the debug section ".NET Core Launch (web)" or press "F5"
