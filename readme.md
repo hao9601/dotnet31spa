@@ -16,8 +16,10 @@ Run
 -------------------------------------------------------------------------------------------------------------------
 
 September 2020: We are hiring!
+Applicants must be able to legally work in the USA and are preferably located in the Eastern or Central time zone.
+
 To be considered do the following:
-- create a fork of the project 
+- create a fork of the project (or clone it and send us the link)
 - change the "Fetch Data" functionality from hard-coded values in the controller to be retrieved from a SQLite database (1 table)
 
 We are looking for the follwing in your fork:
